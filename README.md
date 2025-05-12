@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋 Meu nome é Lucas Ximenes, estudante de Análise e Desenvolvimento de Sistemas na UNIFOR.<br>Sou apaixonado por tecnologia, café forte e desafios de programação!</h2>
+<h2 align="left">Olá! 👋 Meu nome é Lucas Ximenes, estudante de Análise e Desenvolvimento de Sistemas na UNIFOR.<br>Sou apaixonado por tecnologia, e desafios de programação!</h2>
 
 ###
 
