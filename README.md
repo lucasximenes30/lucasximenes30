@@ -53,8 +53,3 @@
 </div>
 
 ---
-
-<p align="center">
-  🚀 Total de Commits em Repositórios Públicos: 
-  <img src="https://komarev.com/ghpvc/?username=lucasximenes30&style=flat-square&color=blue" alt="Profile Views" /> 
-</p>
