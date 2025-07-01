@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -26,11 +26,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasximenes30&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasximenes30&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <p align="center">
@@ -39,7 +38,7 @@
 
 ---
 
-### 📫 Contato
+### Contato
 
 <div align="center">
   <a href="mailto:lucasximenes177@gmail.com" target="_blank">
@@ -57,5 +56,5 @@
 
 <p align="center">
   🚀 Total de Commits em Repositórios Públicos: 
-  <img src="https://komarev.com/ghpvc/?username=LucasXimenes177&style=flat-square&color=blue" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=lucasximenes30&style=flat-square&color=blue" alt="Profile Views" /> 
 </p>
