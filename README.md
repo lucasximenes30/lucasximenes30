@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Ximenes!</h1>
 
 <p align="center">
-  <b>Desenvolvedor Java & Full Stack | Fortaleza - CE, Brasil 🌍</b><br>
+  <b>Desenvolvedor Node/React & Full Stack | Fortaleza - CE, Brasil 🌍</b><br>
   Apaixonado por tecnologia, backend, e soluções escaláveis 🚀
 </p>
 
